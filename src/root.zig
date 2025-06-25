@@ -1,3 +1,3 @@
 const add = @import("add");
 
-export const addNumbers = add.add;
+pub export const addNumbers = add.add;
